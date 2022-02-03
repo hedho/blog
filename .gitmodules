@@ -1,0 +1,4 @@
+[submodule "hedho/public"]
+	path = hedho/public
+	url = https://github.com/hedho/hedho.github.io.git
+	branch = main
